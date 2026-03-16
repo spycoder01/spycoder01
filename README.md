@@ -5,7 +5,7 @@
 🛠️ Building **ML-driven systems for databases and predictive modeling**.  
 🌐 Experienced in **ML model development**, and deploying data-driven web applications.  
 
-Learning, coding, evolving - one model at a time! 🤖✨  
+Learning, coding, evolving - one model at a time! 🤖 
 
 <h2 align = "center" >Follow me around the web</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/abhisek-gupta-88817324b/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
@@ -20,8 +20,8 @@ Learning, coding, evolving - one model at a time! 🤖✨
 
 <h2 align = "center" >Github Stats</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=spycoder01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=spycoder01&theme=dark&hide_border=false)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=spycoder01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=spycoder01&theme=dark&hide_border=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=spycoder01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
