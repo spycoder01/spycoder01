@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Abhisek Gupta</h1>
+<h1 align="center">👋 Hi, I'm Abhisek Gupta</h1>
 
-🚀 AI & ML enthusiast interested in **Machine Learning, Generative AI, LLMs, and Agentic AI**    
-🛠️ Building **ML- and AI-driven applications using Deep Learning, NLP, Transformers, and Generative AI.**    
-📚 Currently exploring **Agentic AI, AI agents, and LLM-powered applications.**    
-🌐 Experienced in **ML model development**, and deploying data-driven web applications.    
+- AI & ML enthusiast interested in **Machine Learning, Generative AI, LLMs, and Agentic AI**    
+- Building **ML- and AI-driven applications using Deep Learning, NLP, Transformers, and Generative AI.**    
+- Currently exploring **Agentic AI, AI agents, and LLM-powered applications.**    
+- Experienced in **ML model development**, and deploying data-driven web applications.    
 
 Learning, coding, evolving - one model at a time! 🤖 
 
