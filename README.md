@@ -24,9 +24,6 @@ Learning, coding, evolving - one model at a time! 🤖
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge)
 
-<h2 align = "center" >Github Stats</h2>
+<!-- <h2 align = "center" >Github Stats</h2>
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=spycoder01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=spycoder01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
